@@ -1,15 +1,10 @@
 # Intermediate Assignment 1: Importing and Joining Data
 
 ## Data: 
-- USDA ERS Food Environment Atlas Dataset: [download here from DSTP Teams](https://usdagcc.sharepoint.com/:x:/r/sites/FNS-DataScienceTrainingProgram/Shared%20Documents/General/Datasets/Food%20Environment%20Atlas.xlsx?d=w93c81e86816c4bc2a6f8ea4b744914c3&csf=1&web=1&e=vIkINh)
+- USDA ERS Food Environment Atlas Dataset
 - 2020 Census data on population by county: query from Census API in Part 2 of the assignment
 
 ## DataCamp: The following DataCamp courses correspond to this exercise:
-### R 
-- Introduction to Importing Data in R
-- Intermediate Importing Data in R
-- Data Manipulation with dplyr
-- Joining Data with dplyr
 ### Python 
 - Introduction to Importing Data in Python
 - Intermediate Importing Data in Python
@@ -32,9 +27,6 @@
 ### Part 3: Combine Datasets
 1. Merge the EnvironmentAll and Census2020Pop datasets on the county FIPS codes.
 2. Print out the number of columns in each dataset as proof of a successful data merge.
-
-### Bonus:
-- Are there a different number of observations between the EnvironmentAll, Census2020Pop, and final merged datasets? Which counties appeared in only one dataset and not the other?
 
 ## Deliverables:
 - Your code (the .R, .Rmd, .py, or .ipynb file)
