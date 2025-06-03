@@ -2,7 +2,7 @@
 
 
 #### **Data:** 
-We will be using the All-hazards dataset mined from the US National Incident Management System 1999-2020 to explore some relationships between categorical variables in these data. Further information about the dataset can be found [here](https://figshare.com/articles/dataset/All-hazards_dataset_mined_from_the_US_National_Incident_Management_System_1999-2020/19858927/3). Find the dataset and definitions in the assignment folder on the [Teams channel](https://usdagcc.sharepoint.com/:f:/r/sites/FNS-DataScienceTrainingProgram/Shared%20Documents/FY24-25%20Intermediate/Assignments/Intermediate%20Assignment%204%20-%20Working%20with%20Categorical%20Data?csf=1&web=1&e=kZRvqu).
+We will be using the All-hazards dataset mined from the US National Incident Management System 1999-2020 to explore some relationships between categorical variables in these data. Further information about the dataset can be found [here](https://figshare.com/articles/dataset/All-hazards_dataset_mined_from_the_US_National_Incident_Management_System_1999-2020/19858927/3).
 
 This assignment uses the variables listed below.
 
