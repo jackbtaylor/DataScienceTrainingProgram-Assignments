@@ -1,4 +1,4 @@
-## Intermediate Assignment 5: Introduction to Regression
+## Intermediate Assignment 4: Introduction to Regression
 
 
 #### **Data:** 
